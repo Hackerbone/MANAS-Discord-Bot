@@ -1,0 +1,22 @@
+{
+  "name": "manas-discord-bot",
+  "version": "1.0.0",
+  "description": "Just a project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hackerbone/MANAS-Discord-Bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hackerbone/MANAS-Discord-Bot/issues"
+  },
+  "homepage": "https://github.com/Hackerbone/MANAS-Discord-Bot#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
+}
